@@ -1,4 +1,8 @@
 {
-  "name": "Detox",
-  "version": "1.0.0"
+  "name": "detox",
+  "version": "1.0.0",
+  "author": {
+    "name": "Erwin Carlos Debusschere Luoni",
+    "email": "erwincdl@gmail.com"
+  }
 }
